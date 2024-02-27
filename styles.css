@@ -1,0 +1,21 @@
+body{
+    background-image: url("https://facts.net/wp-content/uploads/2023/10/8-intriguing-facts-about-mellody-hobson-1696446665.jpg");
+    background-size: cover;
+  h1{
+    color: white;
+    font-size:xx-large;
+  }
+  p{ 
+    color: white;
+    font-size: xx-large;
+  }
+table{ 
+  border-color: azure;
+    color: white;
+    border: 2px black;
+}
+
+img{
+  height: 300px;
+  width: 300px;
+}
